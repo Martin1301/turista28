@@ -1,0 +1,134 @@
+
+*{
+	padding: 0px; margin: 0px;
+}
+body {
+  background-image: url(img/fondo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+h1{
+	text-align: center;
+	color:  #D9E6EC   ;
+	font-family: 'Roboto Slab', serif;
+}
+#navbar{
+	background-color: rgba(236, 240, 241,.9);
+}
+.texto{
+	background-color: rgba(236, 240, 241,1.0);
+}
+#nb{
+	background-color: rgba(52, 73, 94,.7);
+}
+#mo{
+	margin: auto;
+}
+#mod{
+	margin: auto;
+}
+#moda{
+	margin: auto;
+}
+#modal{
+	margin: auto;
+}
+
+button{
+	background-color: #85C4D5;
+}
+ main{
+ height: 248px;
+ background-color: rgba(236, 240, 241,.5);
+ float: left;
+
+ margin-top: 28px;
+ }
+
+ aside{
+
+ float: left;
+ height: 350px;}       
+.movies{
+	margin-top: 100px;
+	
+}
+h5{
+	text-align: center;
+	background-color: rgba(164, 176, 190,1.0)
+}
+.presentacion{
+	margin-top: 24px;
+}
+
+body{
+	background-image: url(../img/fondo.jpg);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h4{
+	text-align: center;
+}
+
+.form-register {
+  width: 400px;
+  background: #303952;
+  padding: 30px;
+  margin: auto;
+  margin-top: 100px;
+  border-radius: 4px;
+  font-family: 'calibri';
+  color: white;
+ 
+}
+
+.form-register h4 {
+  font-size: 22px;
+  margin-bottom: 20px;
+}
+
+.controles {
+  width: 100%;
+  background: #303952;
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 16px;
+  border: 1px solid #1f53c5;
+  font-family: 'calibri';
+  font-size: 18px;
+  color: white;
+}
+
+.form-register p {
+  height: 40px;
+  text-align: center;
+  font-size: 18px;
+  line-height: 40px;
+}
+
+.form-register a {
+  color: white;
+
+}
+
+.form-register a:{
+  color: white;
+  text-decoration: underline;
+}
+
+.form-register .botons {
+  width: 100%;
+  background: #1f53c5;
+  border: none;
+  padding: 12px;
+  color: white;
+  margin: 16px 0;
+  font-size: 16px;
+}
